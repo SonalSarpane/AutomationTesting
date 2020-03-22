@@ -26,9 +26,10 @@ public class ResourcePageTest extends TestBase {
 		resourcepage.ClickOnResource();
 	}
     
-	/*@AfterMethod
+	@AfterMethod
 	public void tearDown()
 	{
 		driver.quit();
-	}*/
+	}
 }
+
