@@ -32,4 +32,3 @@ public class ResourcePageTest extends TestBase {
 		driver.quit();
 	}
 }
-
