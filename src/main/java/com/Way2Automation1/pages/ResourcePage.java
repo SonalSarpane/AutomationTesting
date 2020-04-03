@@ -98,4 +98,3 @@ public class ResourcePage extends TestBase {
 		System.out.println("Records found");
 	}
 }
-
