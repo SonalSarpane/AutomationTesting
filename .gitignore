@@ -1,4 +1,2 @@
-/.idea
-/.settings
-/target
-/test-output
+.idea/
+target/
