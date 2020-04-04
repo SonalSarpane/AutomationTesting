@@ -1,4 +1,4 @@
-package com.Way2Automation1.util;
+package com.way2automation.util;
 
 public class TestUtil {
 	
